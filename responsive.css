@@ -144,7 +144,7 @@
         width: 100%;
     }
     .about-us{
-        .row{
+         .my-about-row{
             flex-wrap: wrap-reverse;
         }
     }
@@ -211,6 +211,7 @@
         .row{
             flex-wrap: wrap-reverse;
         }
+
     }
     .card {
         width: 100%;
