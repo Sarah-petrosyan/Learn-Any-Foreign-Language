@@ -18,13 +18,6 @@ It features a strong hero/landing section and structured content sections that h
 ✅ Fully responsive and beginner-friendly  
 ✅ Great practice for layout, spacing, and clean UI structure
 
----
-
-## Demo Screenshot
-
-![Desktop Demo](./img.jpg "Desktop Demo")
-
----
 
 ## Getting Started
 
